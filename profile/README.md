@@ -5,5 +5,4 @@ We run and maintain the Schmandi ecosystem, a small team focused on stable, easy
 ### 🔗 Links
 🌍 Website: [schmandi.dev](https://schmandi.dev/)  
 📖 Docs: [docs.schmandi.dev](https://docs.schmandi.dev/)  
-🧰 Projects: [GitHub Organisation](https://github.com/schmandi-dev)  
 💬 Featured project: [Transcriptify](https://github.com/dev-hoehle/Transcriptify)
